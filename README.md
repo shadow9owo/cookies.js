@@ -1,2 +1,5 @@
 # cookies.js
-a package that simplifies cookies in js
+a script that simplifies cookies in js
+
+how to add to your project:
+
